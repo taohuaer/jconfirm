@@ -1,5 +1,5 @@
 ### jconfirm
-
+![https://github.com/taohuaer/jconfirm/blob/master/1.gif](https://github.com/taohuaer/jconfirm/blob/master/1.gif)
 ### 使用方法
 引用jconfirm.js和jconfirm.css
 ```js
